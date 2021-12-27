@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d17153-6b82-429e-8444-78ad417444d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs231n/classifiers/linear_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs231n/classifiers/linear_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs231n/classifiers/linear_svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs231n/classifiers/linear_svm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/svm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,7 @@
       <workItem from="1640486878860" duration="8705000" />
       <workItem from="1640530198503" duration="1213000" />
       <workItem from="1640572254696" duration="3536000" />
-      <workItem from="1640595182150" duration="1064000" />
+      <workItem from="1640595182150" duration="1534000" />
     </task>
     <task id="LOCAL-00001" summary="12-26 12:10">
       <created>1640491862678</created>
@@ -65,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640595969482</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12-27 11.19">
+      <created>1640596271116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640596271116</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,18 +88,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="12-27 11.19" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="44" key="CommitChangelistDialog2" timestamp="1640595966569">
+    <state x="452" y="96" key="#Inspections" timestamp="1640596394417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="436" y="44" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640595966569" />
+    <state x="452" y="96" key="#Inspections/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640596394417" />
+    <state x="436" y="44" key="CommitChangelistDialog2" timestamp="1640596269617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="436" y="44" key="CommitChangelistDialog2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640596269617" />
     <state x="345" y="78" key="SettingsEditor" timestamp="1640492681265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640492681265" />
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1640596037741">
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1640596272505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="188" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640596037741" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640596272505" />
     <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1640491897355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
