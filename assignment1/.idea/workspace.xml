@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6d17153-6b82-429e-8444-78ad417444d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cs231n/classifiers/linear_classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs231n/classifiers/linear_classifier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs231n/classifiers/linear_svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/cs231n/classifiers/linear_svm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/svm.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
       <workItem from="1640486878860" duration="8705000" />
       <workItem from="1640530198503" duration="1213000" />
       <workItem from="1640572254696" duration="3536000" />
-      <workItem from="1640595182150" duration="1534000" />
+      <workItem from="1640595182150" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="12-26 12:10">
       <created>1640491862678</created>
